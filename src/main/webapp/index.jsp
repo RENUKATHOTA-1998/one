@@ -9,10 +9,9 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with cid/cd</h1>
                                        
-	<h1 style="color: brown; font-size: 40px;" align="center"> i have completed the tomcat server installation and commiting the chnages /cd</h1>
+	<h1 style="color: YELLOW; font-size: 40px;" align="center"> THANKS MUSTAFA FOR YOUR PATIENCE AND TEACHING WE ARE GLAD TO HAVE YOU /cd</h1>
 	
 	
-	<h1 style="color: blue; font-size: 80px;" align="center"> RAJU RENU PIKRU/cd</h1>
 	
 	
 	
