@@ -9,7 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with cid/cd</h1>
                                        
-	<h1 style="color: YELLOW; font-size: 40px;" align="center"> THANKS MUSTAFA FOR YOUR PATIENCE AND TEACHING WE ARE GLAD TO HAVE YOU</h1>
+	<h1 style="color: orange; font-size: 40px;" align="center"> THANKS MUSTAFA FOR YOUR PATIENCE AND TEACHING WE ARE GLAD TO HAVE YOU</h1>
 	
 	
 	
